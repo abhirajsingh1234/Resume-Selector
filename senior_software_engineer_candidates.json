@@ -1,0 +1,46 @@
+[
+  {
+    "candidate_name": "Abhiraj Singh Rajpurohit python.pdf",
+    "language_quality": 95.0,
+    "experience_years": 0,
+    "experience_years_score": 0.0,
+    "experience_quality": 70.0,
+    "location_score": 100,
+    "skills_score": 85.0,
+    "overall_score": 69.25,
+    "cv_path": "sample_cvs\\Abhiraj Singh Rajpurohit python.pdf"
+  },
+  {
+    "candidate_name": "Abhiraj Singh Rajpurohit powerBI.docx",
+    "language_quality": 85.0,
+    "experience_years": 0,
+    "experience_years_score": 0.0,
+    "experience_quality": 60.0,
+    "location_score": 100,
+    "skills_score": 75.0,
+    "overall_score": 62.75,
+    "cv_path": "sample_cvs\\Abhiraj Singh Rajpurohit powerBI.docx"
+  },
+  {
+    "candidate_name": "karansql[1][2].docx",
+    "language_quality": 85.0,
+    "experience_years": 0,
+    "experience_years_score": 0.0,
+    "experience_quality": 60.0,
+    "location_score": 100,
+    "skills_score": 75.0,
+    "overall_score": 62.75,
+    "cv_path": "sample_cvs\\karansql[1][2].docx"
+  },
+  {
+    "candidate_name": "Karan_resume (1).docx",
+    "language_quality": 60.0,
+    "experience_years": 0,
+    "experience_years_score": 0.0,
+    "experience_quality": 20.0,
+    "location_score": 100,
+    "skills_score": 40.0,
+    "overall_score": 41.0,
+    "cv_path": "sample_cvs\\Karan_resume (1).docx"
+  }
+]
